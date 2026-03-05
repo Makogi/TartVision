@@ -4,7 +4,7 @@
 
 - **GitHub Release 下载 (推荐)**: [点击下载 best_model_weights.pth](sha256:72ebbfa4a014709c1ca8868699b968c8d7c8b21f483711da45bf3ba7ecbdcb95)
 
-确保你的文件目录长这样：
+确保文件目录为以下样式：
 TartVision/
 ├── weights/
 │   └── best_model_weights.pth
