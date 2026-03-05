@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# 忽略权重文件
+*.pth
+*.pt
+weights/
+
+# 绝对要忽略真实数据集
+dataset/
+*.csv
+
+# 虚拟环境
+venv/
+.env/
